@@ -9,5 +9,5 @@ fn main() {
 
     let valor_byte: u8 = input.trim().parse().unwrap();
 
-    println!("Valor int: {}", valor_byte);
+    println!("Valor byte: {}", valor_byte);
 }
