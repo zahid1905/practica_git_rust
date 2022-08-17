@@ -1,3 +1,3 @@
 fn main() {
-    println!("Ingresar e imprimir valores");
+    println!("Ingresar e imprimir valor en distintos tipos de datos");
 }
