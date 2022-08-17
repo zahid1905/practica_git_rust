@@ -3,7 +3,7 @@ use std::io;
 fn main() {
     let mut input: String = String::new();
 
-    println!("Ingrese un valor int: ");
+    println!("Ingreseun valor int: ");
 
     io::stdin().read_line(&mut input).expect("No se pudo leer");
 
